@@ -1,29 +1,28 @@
-import requests
-from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 import pandas as pd
+import time
 
-url = "https://news.ycombinator.com/"
+driver = webdriver.Chrome()
 
-response = requests.get(url)
+url = "https://www.ycombinator.com/companies"
 
-soup = BeautifulSoup(response.text, "html.parser")
+driver.get(url)
 
-titles = soup.find_all("span", class_="titleline")
+time.sleep(5)
+
+companies = driver.find_elements(By.CLASS_NAME, "_company_i9oky_355")
 
 data = []
 
-for title in titles:
-    name = title.text
-    link = title.find("a")["href"]
-    
-    data.append({
-        "title": name,
-        "link": link
-    })
+for company in companies:
+    name = company.text
+    data.append({"company": name})
 
 df = pd.DataFrame(data)
 
-df.to_csv("companies.csv", index=False)
-df.to_json("companies.json", orient="records")
+df.to_csv("startups.csv", index=False)
 
-print("Scraping Complete")
+print("Startup data saved!")
+
+driver.quit()
