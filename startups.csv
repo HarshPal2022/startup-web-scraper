@@ -1,1 +1,161 @@
-
+company,location,description
+"AirbnbSan Francisco, CA, USA",Book accommodations around the world.,WINTER 2009
+"DoorDashSan Francisco, CA, USA",Restaurant delivery.,SUMMER 2013
+"CoinbaseSan Francisco, CA, USA","Buy, sell, and manage cryptocurrencies.",SUMMER 2012
+"GrowwBengaluru, KA, India","Making financial services simple, transparent and delightful.",WINTER 2018
+"InstacartSan Francisco, CA, USA",Marketplace for grocery delivery and pickup,SUMMER 2012
+"OkloSanta Clara, CA, USA","Emission free, always on power from advanced fission power plants.",SUMMER 2014
+"MeeshoBengaluru, KA, India",Democratizing internet commerce for everyone in India,SUMMER 2016
+"DropboxSan Francisco, CA, USA",Backup and share files in the cloud.,SUMMER 2007
+"EquipmentShareColumbia, MO, USA",Cloud solutions for the construction industry.,WINTER 2015
+"Rigetti ComputingBerkeley, CA, USA",Quantum coherent supercomputing.,SUMMER 2014
+"GitLabSan Francisco, CA, USA",A complete DevOps platform delivered as a single application.,WINTER 2015
+"BillionToOneMenlo Park, CA, USA",The genetic testing platform detecting and measuring disease.,SUMMER 2017
+"MatterportSunnyvale, CA, USA",Turn physical objects and environments into 3D models in seconds.,WINTER 2012
+"AmplitudeSan Francisco, CA, USA",Digital Analytics Platform,WINTER 2012
+"PagerDutySan Francisco, CA, USA",Real-time visibility into critical apps and services all in one place.,SUMMER 2010
+"Ginkgo BioworksBoston, MA, USA",Our mission is to make biology easier to engineer.,SUMMER 2014
+"WeaveLehi, UT, USA",Customer communication and payments platform.,WINTER 2014
+"Pardes BiosciencesSan Francisco, CA, USA",We break viruses,SUMMER 2020
+"Embark TrucksSan Francisco, CA, USA",Self-driving semi trucks.,WINTER 2016
+"Lucira HealthEmeryville, CA, USA",Next generation infectious disease test kits,WINTER 2015
+"MomentusSanta Clara, CA, USA",The space infrastructure services company,SUMMER 2018
+"SegmentSan Francisco, CA, USA","Software and APIs to collect, clean, and control customer data.",SUMMER 2011
+"AlgoliaSan Francisco, CA, USA",A developer-friendly and enterprise-grade search API.,WINTER 2014
+"TruebillSilver Spring, MD, USA",Live your best financial life,WINTER 2016
+"TwitchSan Francisco, CA, USA",A global community creating the future of live entertainment.,WINTER 2007
+"PlanGridSan Francisco, CA, USA",Mobile applications for the construction industry.,WINTER 2012
+"BellabeatSan Francisco, CA, USA",Tech-powered women's wellness.,WINTER 2014
+"CruiseSan Francisco, CA, USA",Self-driving cars.,WINTER 2014
+"BenchlingSan Francisco, CA, USA",Unlocking the power of biotech with modern software for modern science,SUMMER 2012
+"CasetextSan Francisco, CA, USA",We make the world's laws free and understandable.,SUMMER 2013
+"BirdAmsterdam, NH, Netherlands",The world’s largest omnichannel communications platform,SUMMER 2016
+"BrexSan Francisco, CA, USA","Business accounts, corporate cards, and spend management software.",WINTER 2017
+"The AthleticSan Francisco, CA, USA",Subscription sports media.,SUMMER 2016
+"CodecademyNew York, NY, USA",The leading online learning platform for technical skills.,SUMMER 2011
+"CheckrSan Francisco, CA, USA",People infrastructure for the future of work,SUMMER 2014
+"LeverSan Francisco, CA, USA",Talent Acquisition Suite that combines ATS + Talent CRM,SUMMER 2012
+"ClipboardSan Francisco, CA, USA",Connects workplaces with professionals nearby.,WINTER 2017
+"HeapSan Francisco, CA, USA",Captures user interactions with no code to generate analytics.,WINTER 2013
+"SendwaveBoston, MA, USA","Instant, no fee international remittances.",WINTER 2012
+"DeelSan Francisco, CA, USA",The all-in-one HR and payroll platform for global teams,WINTER 2019
+"CleverSan Francisco, CA, USA",The platform that powers technology in the classroom.,SUMMER 2012
+Caper,Plug-and-play cashier-less retail powered by computer vision and AI,WINTER 2016
+"RedditSan Francisco, CA, USA",The frontpage of the internet.,SUMMER 2005
+"FivestarsSan Francisco, CA, USA",Customer loyalty and payments platform for small businesses.,WINTER 2011
+"Machine ZonePalo Alto, CA, USA",Pioneers of mobile social gaming.,WINTER 2008
+"FaireSan Francisco, CA, USA",The global online platform empowering independent retail.,WINTER 2017
+"FivetranOakland, CA, USA",The leader in automated data movement,WINTER 2013
+"OptimizelySan Francisco, CA, USA",The first all-in-one operating system for marketing,WINTER 2010
+"FlexportSan Francisco, CA, USA",Platform for global logistics.,WINTER 2014
+"WePayRedwood City, CA, USA",Payments for platform businesses.,SUMMER 2009
+"WeeblySan Francisco, CA, USA",Build a free website that grows with your business.,WINTER 2007
+"Flock SafetyAtlanta, GA, USA",The first public safety operating system that eliminates crime.,SUMMER 2017
+"SqreenSan Francisco, CA, USA",Sqreen is the application security platform for the modern enterprise,WINTER 2018
+"NURXNew York, NY, USA","Medicine or testing kit, prescribed online and delivered to your door.",WINTER 2016
+"Go1San Francisco, CA, USA",A learning platform that enables you to train your staff or customers.,SUMMER 2015
+"CoreOSSan Francisco, CA, USA",Open source tools of modern distributed systems.,SUMMER 2013
+"Bear Flag RoboticsNewark, CA, USA",Autonomous driving technology for farm tractors.,WINTER 2018
+"GOAT GroupLos Angeles, CA, USA","Platform for the greatest products from the past, present and future.",WINTER 2011
+"HerokuSan Francisco, CA, USA",Enabling developers to build and run applications in the cloud.,WINTER 2008
+"GrubMarketSan Francisco, CA, USA",AI-powered technology enabler and digital transformer of American…,WINTER 2015
+"HelloSignSan Francisco, CA, USA",eSignature software for small and mid-market businesses.,WINTER 2011
+"ZenefitsSan Francisco, CA, USA","HR for small businesses: onboarding, payroll and benefits.",WINTER 2013
+"GustoSan Francisco, CA, USA",Provides growing businesses with everything to take care of their team,WINTER 2012
+"HoneyloveLos Angeles, CA, USA",Honeylove makes functional undergarments for women,SUMMER 2018
+"Modern FertilitySan Francisco, CA, USA",At-home fertility test for women who aren't ready for kids right now…,SUMMER 2017
+"CognitoPalo Alto, CA, USA","Frictionless, modern identity verification that starts with just a…",SUMMER 2014
+"OpenInvestSan Francisco, CA, USA",Values based personalization at scale for asset and wealth management,SUMMER 2015
+"MixpanelSan Francisco, CA, USA",Mixpanel is event analytics for builders that need answers.,SUMMER 2009
+"PaystackLagos, LA, Nigeria",Modern payments infrastructure for Africa,WINTER 2016
+"Moxion Power Co.Richmond, CA, USA",Mobile Energy Storage Technology,WINTER 2021
+"DrChronoCA, USA",The essential platform for modern medical practices and patients.,WINTER 2011
+"OMGPopNew York, NY, USA",An independent flash game studio.,SUMMER 2006
+"NewfrontSan Francisco, CA, USA",Modern insurance brokerage.,WINTER 2018
+"NorthKitchener, ON, Canada",Wearable computing hardware: biosignal gesture recognition,WINTER 2013
+Nowports,The core engine of supply chain in LATAM,WINTER 2019
+"OdekoNew York, NY, USA",Our operations software makes it easier to run--and grow--your cafe,SUMMER 2019
+"GitPrimeDurango, CO, USA",Visibility and analytics for software development leaders.,WINTER 2016
+"ProxySan Francisco, CA, USA",Smart ring digital wallet,SUMMER 2016
+"FutureAdvisorSan Francisco, CA, USA",The online financial management service for everyone.,SUMMER 2010
+"PodiumLehi, UT, USA",Get more leads. Make more money.,WINTER 2016
+"RappiBogotá, Bogota, Colombia",On-demand delivery and financial services for Latin America.,WINTER 2016
+"RazorpayBengaluru, KA, India",India's only full-stack financial solutions company for businesses.,WINTER 2015
+"RipplingSan Francisco, CA, USA","One place to run all your HR, IT, and Finance. Globally.",WINTER 2017
+"Scale AISan Francisco, CA, USA",Data-centric infrastructure to accelerate the development of AI,SUMMER 2016
+"ScentbirdNew York, NY, USA",Scentbird is a luxury fragrance subscription service.,SUMMER 2015
+"ScribdSan Francisco, CA, USA",World's largest online library.,SUMMER 2006
+"ShipBobChicago, IL, USA",Providing Amazon level logistics to e-commerce businesses.,SUMMER 2014
+"SmartAssetNew York, NY, USA",Marketplace connecting consumers to financial advisors,SUMMER 2012
+"StripeSan Francisco, CA, USA",Economic infrastructure for the internet.,SUMMER 2009
+"WaveDakar, Dakar Region, Senegal",Mobile money app for Africa,WINTER 2012
+"WebflowSan Francisco, CA, USA",Professional website design and publishing platform.,SUMMER 2013
+"WhatnotLos Angeles, CA, USA",Whatnot is the largest livestream shopping platform in the U.S.,WINTER 2020
+"ZapierMountain View, CA, USA",The easiest way to automate your work.,SUMMER 2012
+"ZeptoMH, India",10-Minute Grocery Delivery in India,WINTER 2021
+"Focal SystemsNew York, NY, USA",Building the Operating System for B&M Retail using Deep Learning,WINTER 2016
+"MioAustin, TX, USA",Mio powers seamless communication between workplace chat apps.,WINTER 2016
+"DailySan Francisco, CA, USA",Conversational Voice and Multimodal AI built with Open Source,WINTER 2016
+"PetcubeSan Francisco, CA, USA",Petcube is on the mission to improve lives of pets and pet owners…,WINTER 2016
+"OutschoolSan Francisco, CA, USA",A live online learning platform that empowers kids ages 3–18.,WINTER 2016
+"MasonSeattle, WA, USA",Mason is the fastest way to take smart devices from idea to end user,WINTER 2016
+"MagicBusLos Angeles, CA, USA",We make vanpool simple.,WINTER 2016
+"TovalaChicago, IL, USA",A smart-oven-paired subscription meal service.,WINTER 2016
+"iSono HealthSan Francisco, CA, USA",AI-powered platform for Accessible and Personalized Breast Health…,WINTER 2016
+"GetAcceptSan Francisco, CA, USA",Close deals faster. Digitally.,WINTER 2016
+"ChatfuelSan Francisco, CA, USA",Platform to easily create chatbots to engage with audiences on…,WINTER 2016
+"YardbookSan Mateo, CA, USA",Marketplace & Software Revolutionizing Yard Care,WINTER 2016
+"GoCardlessLondon, England, United Kingdom",We’re building the world’s bank payment network.,SUMMER 2011
+"Stealth WorkerMenlo Park, CA, USA","Information Security (Cyber Security), Compliance and Privacy (GDPR &…",WINTER 2016
+"DeepgramSan Francisco, CA, USA",Building foundational AI for speech transcription and understanding.,WINTER 2016
+"SOUNDBOKSCopenhagen, Denmark",We're creating the loudest battery-driven speaker on the market,WINTER 2016
+"LatticeSan Francisco, CA, USA",Modern people management platform.,WINTER 2016
+"MuxSan Francisco, CA, USA",Video infrastructure for developers,WINTER 2016
+"Human InterestSan Francisco, CA, USA",The 401(k) for small and medium-sized businesses.,SUMMER 2015
+"Flirtey (SkyDrop)Reno, NV, USA",Flirtey is the world’s first commercial drone delivery service and…,SUMMER 2015
+"Eight SleepNew York, NY, USA",The sleep fitness company.,SUMMER 2015
+"InstaworkSan Francisco, CA, USA",A flexible work app that connects businesses with hourly workers.,SUMMER 2015
+"Cofactor GenomicsSt. Louis, MO, USA",Cofactor closes the precision medicine gap with predictive diagnostics,SUMMER 2015
+"Click & GrowPalo Alto, CA, USA",Click & Grow makes indoor urban gardens and farms that take complete…,SUMMER 2015
+"BitmovinSan Francisco, CA, USA",Powers OTT online video providers with video developer tools.,SUMMER 2015
+"TetraScienceBoston, MA, USA",The only R&D data cloud for life sciences,SUMMER 2015
+"The Ticket FairyLos Angeles, CA, USA",Revenue generation for live events,SUMMER 2015
+"Font AwesomeBentonville, AR, USA",Icons and social logos for your website.,SUMMER 2015
+"80,000 HoursLondon, England, United Kingdom",An online guide that tells talented graduates how to maximise the…,SUMMER 2015
+"XenditJakarta, Jakarta, Indonesia",Provides payment infrastructure for Southeast Asia,SUMMER 2015
+"Shred VideoSan Francisco, CA, USA",Shred Video builds automated video & photo systems that allow…,SUMMER 2015
+"Shape (ShapeScale)San Francisco, CA, USA",ShapeScale is a personal 3D scanner and fitness tracker that…,SUMMER 2015
+"RedCarpetUpGurugram, HR, India",Credit cards for Indians that banks cannot see,SUMMER 2015
+"Plate IQNew York, NY, USA",Automated Accounts Payable,SUMMER 2015
+"PickTraceLos Angeles, CA, USA",Workforce Management for Large Farms,SUMMER 2015
+"FountainSan Francisco, CA, USA",High volume hiring made simple,SUMMER 2015
+"MicrohealthNew York, NY, USA",Digital hematology,SUMMER 2015
+"ZeplinSan Francisco, CA, USA",Deliver on the Promise of Design,SUMMER 2015
+"MarkhorSan Francisco, CA, USA",Markhor is a DTC company that works with craftsmen to make shoes and…,SUMMER 2015
+Circle Medical,Modern primary care via video and in-person,SUMMER 2015
+"GiveCampusWashington, DC, USA",The fundraising platform for schools.,SUMMER 2015
+"Drip CapitalMH, India",Digital trade finance and B2B commerce company,SUMMER 2015
+"ChaldalDhaka, Dhaka Division, Bangladesh",SUMMER 2015,CONSUMER
+"ClerkyPalo Alto, CA, USA",Makes legal paperwork easy for startups and their attorneys.,SUMMER 2011
+"BodyportSan Francisco, CA, USA",Predicting and preventing heart disease.,SUMMER 2015
+Verge Genomics,We use human data and AI to develop better drugs faster.,SUMMER 2015
+"Thrive AgritechNew York, NY, USA",We design and manufacture energy efficient LED lighting fixtures for…,SUMMER 2015
+"TesorioSan Francisco, CA, USA",Tesorio is the cash flow performance platform that helps finance…,SUMMER 2015
+"AgileMDSan Francisco, CA, USA",Predictive analytics and clinical pathways for hospitals,SUMMER 2011
+"ReachRedwood City, CA, USA","Long range, wireless energy distribution that scales",SUMMER 2015
+"SunFarmerKathmandu, Central Development Region, Nepal",Reliable and affordable solar energy in developing countries.,SUMMER 2015
+"Confident LIMSPalo Alto, CA, USA",Laboratory Information Management System (LIMS) serving…,SUMMER 2015
+"Branch8Kowloon, Hong Kong",Branch8 helps sellers to list and manage products on e-commerce…,SUMMER 2015
+"Heroic LabsLondon, England, United Kingdom","Social Infrastructure for Games; Makers of Nakama game server, Satori…",SUMMER 2015
+"SnapMagicSan Francisco, CA, USA",AI copilot for electronics design,SUMMER 2015
+"Scope ARSan Francisco, CA, USA",Scope AR is the leading provider of User Guided Augmented Reality…,SUMMER 2015
+"PartnerStackToronto, ON, Canada",PartnerStack is a full stack solution for partnerships.,SUMMER 2015
+"AssemblySouth San Francisco, CA, USA",Advanced manufacturing and distribution solutions (for China-based…,SUMMER 2015
+"GemnoteSan Leandro, CA, USA","Gemnote is the easiest way to design, create and send custom products.",SUMMER 2015
+"New StoryAtlanta, GA, USA",We pioneer solutions to end the global housing crisis by empowering…,SUMMER 2015
+"IroncladSan Francisco, CA, USA",AI-powered contract management,SUMMER 2015
+"Leaders In TechSan Francisco, CA, USA",Become the leader your company needs.,SUMMER 2015
+"teaBOTToronto, ON, Canada",A robot that makes tea!,SUMMER 2015
+"TeleportOakland, CA, USA",The Infrastructure Identity Company,SUMMER 2015
+"LuggSan Francisco, CA, USA","Move anything, anytime, anywhere",SUMMER 2015
+"ShasqiSan Francisco, CA, USA",Targeting Cancer with Click Chemistry,WINTER 2015
